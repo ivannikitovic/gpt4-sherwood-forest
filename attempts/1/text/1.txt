@@ -1,0 +1,12 @@
+You are an expert gamer, playing Sherwood Forest on the Apple II. 
+I will provide you with the prompts on the screen, and an image-to-text representation of the display generated using another model. Please solve the game.
+
+SOUTH END OF FOREST	EXITS: N E W
+
+DISPLAY: an owl sitting on a tree branch in a field
+
+YOU ARE STANDING AT THE SOUTH END OF 
+SHERWOOD FOREST. WELL-CUT PATHS LEAD 
+NORTH, EAST AND WEST.
+
+> GO EAST

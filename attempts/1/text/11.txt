@@ -1,0 +1,5 @@
+WELL TRAVELLED PATH	EXITS: N S W
+
+DISPLAY: a pixelated image of a road with a green and blue background
+
+>

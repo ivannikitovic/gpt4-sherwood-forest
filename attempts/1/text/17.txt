@@ -1,0 +1,5 @@
+SOUTH END OF FOREST	EXITS: N E W
+
+DISPLAY: an owl sitting on a tree branch in a field
+
+> GO WEST

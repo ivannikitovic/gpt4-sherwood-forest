@@ -1,0 +1,5 @@
+BY BLACKSMITH SHOP	EXITS: N S E W
+
+DISPLAY: a pixel art illustration of a road with a sign that says smith
+
+> GO SOUTH

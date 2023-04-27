@@ -1,0 +1,5 @@
+NORTH END OF FOREST	EXITS: N S E W
+
+DISPLAY: a pixelated image of a tree and road
+
+> GO NORTH

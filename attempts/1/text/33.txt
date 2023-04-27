@@ -1,0 +1,13 @@
+LOG BRIDGE	EXITS: E W
+
+DISPLAY: the old school game is called "the lumberjack"
+
+> CROSS LOG BRIDGE
+
+THAT'S JUST NOT POSSIBLE RIGHT NOW.
+
+> GO EAST
+
+LITTLE JOHN WON'T LET YOU CROSS.
+
+>

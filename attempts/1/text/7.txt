@@ -1,0 +1,8 @@
+WELL TRAVELLED PATH	EXITS: N S W
+
+DISPLAY: a pixelated image of a road with a green and blue background
+
+YOU'RE ON A WELL-TRAVELLED N/S PATH.
+A SMALLER PATH ALSO LEADS WEST.
+
+> GO WEST

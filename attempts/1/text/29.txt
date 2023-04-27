@@ -1,0 +1,9 @@
+INSIDE WEDDING CHAPEL	EXITS: WEST
+
+DISPLAY: a man in a purple robe is standing next to a woman
+
+> TALK TO FRIAR TUCK
+
+THAT'S JUST NOT POSSIBLE RIGHT NOW.
+
+> GO WEST

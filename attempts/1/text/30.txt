@@ -1,0 +1,5 @@
+BY WEDDING CHAPEL	EXITS: S E W
+
+DISPLAY: a pixel art image of a door and a road
+
+> GO SOUTH
